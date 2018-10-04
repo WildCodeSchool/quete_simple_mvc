@@ -1,0 +1,15 @@
+{
+    "name": "lilian/quete_simple_mvc",
+    "authors": [
+        {
+            "name": "Lilian Marcheval",
+            "email": "marchli@hotmail.fr"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
