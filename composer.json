@@ -1,4 +1,4 @@
-{
+
     "name": "wilder/quete_simple_mvc",
     "authors": [
         {
@@ -6,11 +6,10 @@
             "email": "Francisco.BPF@gmail.com"
         }
     ],
-
-    "require":{}
-    "autoload": {
-        "psr-4": {
-            "": "src/"
+    "require": {
+        "autoload": {
+            "psr-4": {
+                "": "src/"
+            }
+        }
     }
-}
-}
