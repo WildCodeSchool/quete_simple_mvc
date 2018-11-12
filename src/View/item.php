@@ -5,7 +5,7 @@
 </head>
 <body>
 <section>
-    <h1>items<h1>
+    <h1>MVC2<h1>
     <ul>
         <?php foreach ($items as $item) : ?>
             <li><?= $item['title'] ?></li>
